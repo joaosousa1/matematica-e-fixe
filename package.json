@@ -1,0 +1,14 @@
+{
+  "name": "electron-matematica",
+  "version": "1.0.0",
+  "description": "teste do electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "João Sousa",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.1.3"
+  }
+}
